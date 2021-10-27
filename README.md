@@ -1,5 +1,5 @@
 # Physical dataviz
-![](https://github.com/rahulvenugopal/match_box/blob/main/matchbox_price.jpg)
+![](https://github.com/rahulvenugopal/match_box/blob/main/matchbox_price.png)
 
 September 23, 2008 price of a matchbox touched Re 1 mark!
 
